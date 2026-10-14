@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Make a 2026-only animated contribution snake (standard-library only).
+"""Make a 2026-only square-eating contribution snake (standard-library only).
 
 The calendar is fetched from GitHub's GraphQL contributionsCollection using a
 FIXED calendar-year date range, not the rolling 365-day profile view.
@@ -12,6 +12,7 @@ import calendar
 import datetime as dt
 import html
 import json
+import math
 import os
 from pathlib import Path
 import sys
@@ -122,7 +123,7 @@ def make_svg(username: str, year: int, counts: dict[str, int], mode: str) -> str
     result: list[str] = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}" role="img" aria-label="{username_esc} GitHub contribution snake, year {year} only">',
         f'<title>{username_esc} — {year} Contribution Snake</title>',
-        '<desc>Animated snake on a GitHub contribution calendar. Only days in the selected calendar year are included. Some contributions may be synthetic.</desc>',
+        '<desc>Animated snake eats colored contribution squares in a fixed calendar year. Eaten squares return when the animation loops. Some contributions may be synthetic.</desc>',
         f'<rect width="100%" height="100%" rx="11" fill="{palette["background"]}" stroke="{palette["stroke"]}"/>',
         f'<text x="{left}" y="26" font-family="monospace" font-size="16" font-weight="bold" fill="{palette["text"]}">&gt; github contributions --year {year}</text>',
         f'<text x="{left}" y="45" font-family="monospace" font-size="11" fill="{palette["muted"]}">{username_esc} / calendar-year view</text>',
@@ -137,31 +138,67 @@ def make_svg(username: str, year: int, counts: dict[str, int], mode: str) -> str
         x = left + col * step
         result.append(f'<text x="{x}" y="66" font-family="monospace" font-size="10" fill="{palette["muted"]}">{calendar.month_abbr[month]}</text>')
 
+    # All 365 days remain visible in the fixed-year calendar, including future
+    # empty days. The snake only travels through days up to today (UTC), so it
+    # spends its time eating visible contributions, not future placeholders.
     all_cells: list[tuple[int, int, dt.date]] = []
     for day_offset in range((last - first).days + 1):
         d = first + dt.timedelta(days=day_offset)
         col = (d - start_sunday).days // 7
         row = (d.weekday() + 1) % 7
         all_cells.append((col, row, d))
-        x, y = left + col * step, top + row * step
-        count = counts.get(d.isoformat(), 0)
-        color = palette["dots"][contribution_level(count)]
-        result.append(
-            f'<rect x="{x}" y="{y}" width="{square}" height="{square}" rx="2" fill="{color}">'
-            f'<title>{d.isoformat()}: {count} contribution(s)</title></rect>'
-        )
 
-    # Seven-row serpentine route visits cells inside 2026 only. The head leads
-    # five trailing segments at different negative time offsets.
-    sorted_cells = sorted(all_cells, key=lambda t: (t[1], t[0] if t[1] % 2 == 0 else -t[0]))
+    today_utc = dt.datetime.now(dt.timezone.utc).date()
+    active_cells = [cell for cell in all_cells if cell[2] <= today_utc]
+    # The year hasn't started yet: produce the fixed calendar and a stationary
+    # (non-eating) snake rather than constructing an empty motion path.
+    if not active_cells:
+        active_cells = all_cells[:1]
+
+    # Snake crawls through each row, reversing direction on alternating rows.
+    # Connecting row endpoints makes the route continuous (no teleport between
+    # weeks), and the same route controls both the head and square fading.
+    sorted_cells = sorted(active_cells, key=lambda cell: (cell[1], cell[0] if cell[1] % 2 == 0 else -cell[0]))
     route = [(left + c * step + square / 2, top + r * step + square / 2) for c, r, _ in sorted_cells]
-    path = "M " + " L ".join(f"{x-route[0][0]:g},{y-route[0][1]:g}" for x, y in route)
-    dur = 46.0
+    traversed = [0.0]
+    for previous, current in zip(route, route[1:]):
+        traversed.append(traversed[-1] + math.hypot(current[0] - previous[0], current[1] - previous[1]))
+    total_distance = max(traversed[-1], 1.0)
+    arrivals = {cell[2].isoformat(): length / total_distance for cell, length in zip(sorted_cells, traversed)}
+    duration = 60.0
+
+    # The green squares become transparent when the head reaches them. They
+    # reappear at the start of the next 60-second cycle. Zero-count (empty)
+    # squares stay in place. No GitHub data or contributions are changed.
+    for col, row, day in all_cells:
+        x, y = left + col * step, top + row * step
+        count = counts.get(day.isoformat(), 0)
+        color = palette["dots"][contribution_level(count)]
+        result.append(f'<rect x="{x}" y="{y}" width="{square}" height="{square}" rx="2" fill="{color}">')
+        result.append(f'<title>{day.isoformat()}: {count} contribution(s)</title>')
+        if count > 0 and day.isoformat() in arrivals:
+            progress = arrivals[day.isoformat()]
+            # Small, visible fade immediately after the head reaches the cell.
+            fade_start = max(0.001, min(0.994, progress - 0.001))
+            fade_end = min(0.999, fade_start + 0.005)
+            result.append(
+                f'<animate attributeName="opacity" values="1;1;0;0" '
+                f'keyTimes="0;{fade_start:.6f};{fade_end:.6f};1" '
+                f'dur="{duration:g}s" repeatCount="indefinite" calcMode="linear"/>'
+            )
+        result.append('</rect>')
+
+    # The motion path is relative to the first cell because each segment is
+    # positioned there before animateMotion begins.
+    path = "M 0,0 " + " ".join(f"L {x - route[0][0]:g},{y - route[0][1]:g}" for x, y in route[1:])
     result.append('<g aria-hidden="true">')
-    for i in range(5, -1, -1):
+    for segment in range(5, -1, -1):
+        # Head (segment 0) moves first, with the five tail segments following.
         result.append(
-            f'<rect x="{route[0][0]-5:g}" y="{route[0][1]-5:g}" width="10" height="10" rx="3" fill="{palette["snake"][i]}" opacity="{1-i*0.11:.2f}">'
-            f'<animateMotion dur="{dur:g}s" begin="{-0.42*(5-i):.2f}s" repeatCount="indefinite" calcMode="linear" path="{path}"/>'
+            f'<rect x="{route[0][0]-5:g}" y="{route[0][1]-5:g}" width="10" height="10" '
+            f'rx="3" fill="{palette["snake"][segment]}" opacity="{1-segment*0.11:.2f}">'
+            f'<animateMotion dur="{duration:g}s" begin="{0.17*segment:.2f}s" '
+            f'repeatCount="indefinite" calcMode="linear" path="{path}"/>'
             '</rect>'
         )
     result.append('</g>')
