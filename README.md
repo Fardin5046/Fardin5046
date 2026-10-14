@@ -62,9 +62,9 @@ I'm **Fardin** — a developer who enjoys building practical applications, exper
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fardin5046/Fardin5046/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fardin5046/Fardin5046/output/github-snake.svg" />
-    <img alt="Animated snake moving through Fardin's GitHub contribution grid" src="https://raw.githubusercontent.com/Fardin5046/Fardin5046/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fardin5046/Fardin5046/output/github-snake-dark.svg?v=2026-eating-v3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fardin5046/Fardin5046/output/github-snake.svg?v=2026-eating-v3" />
+    <img alt="Animated snake moving through Fardin's GitHub contribution grid" src="https://raw.githubusercontent.com/Fardin5046/Fardin5046/output/github-snake.svg?v=2026-eating-v3" width="100%" />
   </picture>
   <br />
   <sub>The snake appears after the included GitHub Action runs successfully for the first time.</sub>

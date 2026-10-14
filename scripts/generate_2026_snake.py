@@ -165,28 +165,34 @@ def make_svg(username: str, year: int, counts: dict[str, int], mode: str) -> str
         traversed.append(traversed[-1] + math.hypot(current[0] - previous[0], current[1] - previous[1]))
     total_distance = max(traversed[-1], 1.0)
     arrivals = {cell[2].isoformat(): length / total_distance for cell, length in zip(sorted_cells, traversed)}
-    duration = 60.0
+    duration = 24.0
 
-    # The green squares become transparent when the head reaches them. They
-    # reappear at the start of the next 60-second cycle. Zero-count (empty)
-    # squares stay in place. No GitHub data or contributions are changed.
+    # The green overlays disappear and reveal the empty square when eaten.
+    # They reappear at the start of the next 24-second cycle. No GitHub data or contributions are changed.
     for col, row, day in all_cells:
         x, y = left + col * step, top + row * step
         count = counts.get(day.isoformat(), 0)
-        color = palette["dots"][contribution_level(count)]
-        result.append(f'<rect x="{x}" y="{y}" width="{square}" height="{square}" rx="2" fill="{color}">')
-        result.append(f'<title>{day.isoformat()}: {count} contribution(s)</title>')
-        if count > 0 and day.isoformat() in arrivals:
-            progress = arrivals[day.isoformat()]
-            # Small, visible fade immediately after the head reaches the cell.
-            fade_start = max(0.001, min(0.994, progress - 0.001))
-            fade_end = min(0.999, fade_start + 0.005)
-            result.append(
-                f'<animate attributeName="opacity" values="1;1;0;0" '
-                f'keyTimes="0;{fade_start:.6f};{fade_end:.6f};1" '
-                f'dur="{duration:g}s" repeatCount="indefinite" calcMode="linear"/>'
-            )
-        result.append('</rect>')
+        # Draw an always-visible dark/gray empty cell BELOW the green square.
+        # The animated colored overlay disappears when eaten; the empty cell
+        # remains clearly visible. This makes the effect readable on GitHub.
+        result.append(
+            f'<rect x="{x}" y="{y}" width="{square}" height="{square}" rx="2" '
+            f'fill="{palette["empty"]}"/>'
+        )
+        if count > 0:
+            color = palette["dots"][contribution_level(count)]
+            result.append(f'<rect x="{x}" y="{y}" width="{square}" height="{square}" rx="2" fill="{color}">')
+            result.append(f'<title>{day.isoformat()}: {count} contribution(s)</title>')
+            if day.isoformat() in arrivals:
+                progress = arrivals[day.isoformat()]
+                fade_start = max(0.001, min(0.994, progress - 0.001))
+                fade_end = min(0.999, fade_start + 0.005)
+                result.append(
+                    f'<animate attributeName="opacity" values="1;1;0;0" '
+                    f'keyTimes="0;{fade_start:.6f};{fade_end:.6f};1" '
+                    f'dur="{duration:g}s" repeatCount="indefinite" calcMode="linear"/>'
+                )
+            result.append('</rect>')
 
     # The motion path is relative to the first cell because each segment is
     # positioned there before animateMotion begins.
