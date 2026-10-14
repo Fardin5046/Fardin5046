@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Fardin: turning ideas into software, midnight terminal banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080e16"/><stop offset=".55" stop-color="#0d1622"/><stop offset="1" stop-color="#0b1c25"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#27d6c2" stop-opacity=".25"/><stop offset="1" stop-color="#27d6c2" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#21323d" stroke-width=".6" opacity=".48"/></pattern>
+  <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39d6c9"/><stop offset="1" stop-color="#5b83fa"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="998" height="298" rx="15" fill="url(#bg)" stroke="#2b4350" stroke-width="2"/>
+<rect x="1" y="35" width="998" height="264" rx="15" fill="url(#grid)" opacity=".8"/>
+<circle cx="825" cy="172" r="210" fill="url(#glow)"/>
+<path d="M1 37H999" stroke="#29414a" stroke-width="1"/>
+<circle cx="21" cy="19" r="5" fill="#ff726f"/><circle cx="39" cy="19" r="5" fill="#ffc15e"/><circle cx="57" cy="19" r="5" fill="#4bce94"/>
+<text x="500" y="24" text-anchor="middle" fill="#768e9f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">~/fardin5046/portfolio — bash</text>
+<text x="55" y="95" fill="#5eead4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17">&gt; hello_world --user=fardin</text>
+<text x="52" y="160" fill="#f5f7fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="2">FARDIN<tspan fill="#5eead4">.</tspan></text>
+<text x="54" y="197" fill="#a0b7c6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">building useful things, one commit at a time.</text>
+<rect x="54" y="228" width="220" height="2" rx="1" fill="url(#line)"/>
+<text x="54" y="257" fill="#718c9b" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">SOFTWARE  /  AI  /  CREATIVE CODE</text>
+<g transform="translate(720 82)">
+  <rect width="222" height="150" rx="10" fill="#0b131e" fill-opacity=".86" stroke="#32505b"/>
+  <text x="19" y="30" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#6d8699">// status.ts</text>
+  <text x="19" y="64" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#8be9dd">const</text>
+  <text x="68" y="64" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#f1f4f8">me = {</text>
+  <text x="31" y="88" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#acc5d4">curiosity:</text>
+  <text x="125" y="88" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#e8cb84">true,</text>
+  <text x="31" y="112" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#acc5d4">mode:</text>
+  <text x="84" y="112" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#e8cb84">'build'</text>
+  <text x="19" y="135" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#f1f4f8">};</text>
+</g>
+</svg>
