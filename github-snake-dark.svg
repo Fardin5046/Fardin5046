@@ -1,0 +1,1604 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 939 232" width="939" height="232" role="img" aria-label="Fardin5046 GitHub contribution snake, year 2026 only">
+<title>Fardin5046 — 2026 Contribution Snake</title>
+<desc>Animated snake eats colored contribution squares in a fixed calendar year. Eaten squares return when the animation loops. Some contributions may be synthetic.</desc>
+<rect width="100%" height="100%" rx="11" fill="#0D1117" stroke="#263444"/>
+<text x="66" y="26" font-family="monospace" font-size="16" font-weight="bold" fill="#E6EDF3">&gt; github contributions --year 2026</text>
+<text x="66" y="45" font-family="monospace" font-size="11" fill="#8B949E">Fardin5046 / calendar-year view</text>
+<text x="54" y="108" text-anchor="end" font-family="monospace" font-size="10" fill="#8B949E">Mon</text>
+<text x="54" y="140" text-anchor="end" font-family="monospace" font-size="10" fill="#8B949E">Wed</text>
+<text x="54" y="172" text-anchor="end" font-family="monospace" font-size="10" fill="#8B949E">Fri</text>
+<text x="66" y="66" font-family="monospace" font-size="10" fill="#8B949E">Jan</text>
+<text x="146" y="66" font-family="monospace" font-size="10" fill="#8B949E">Feb</text>
+<text x="210" y="66" font-family="monospace" font-size="10" fill="#8B949E">Mar</text>
+<text x="274" y="66" font-family="monospace" font-size="10" fill="#8B949E">Apr</text>
+<text x="338" y="66" font-family="monospace" font-size="10" fill="#8B949E">May</text>
+<text x="418" y="66" font-family="monospace" font-size="10" fill="#8B949E">Jun</text>
+<text x="482" y="66" font-family="monospace" font-size="10" fill="#8B949E">Jul</text>
+<text x="546" y="66" font-family="monospace" font-size="10" fill="#8B949E">Aug</text>
+<text x="626" y="66" font-family="monospace" font-size="10" fill="#8B949E">Sep</text>
+<text x="690" y="66" font-family="monospace" font-size="10" fill="#8B949E">Oct</text>
+<text x="770" y="66" font-family="monospace" font-size="10" fill="#8B949E">Nov</text>
+<text x="834" y="66" font-family="monospace" font-size="10" fill="#8B949E">Dec</text>
+<rect x="66" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="66" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-01: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.567516;0.572516;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="66" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="66" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-02: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.854166;0.859166;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="66" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="66" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-03: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.857184;0.862184;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="82" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="82" y="82" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-04: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.001000;0.006000;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="82" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="82" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-05: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.279616;0.284616;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="82" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="82" y="114" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-06: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.282633;0.287633;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="82" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="82" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-01-07: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.563249;0.568249;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="82" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="82" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-08: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.570533;0.575533;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="82" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="82" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-01-09: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.851149;0.856149;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="82" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="82" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-10: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.860201;0.865201;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="98" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="98" y="82" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-11: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.002017;0.007017;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="98" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="98" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-12: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.276598;0.281598;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="98" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="98" y="114" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-13: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.285650;0.290650;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="98" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="98" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-01-14: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.560231;0.565231;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="98" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="98" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-15: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.573551;0.578551;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="98" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="98" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-01-16: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.848131;0.853131;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="98" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="98" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-17: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.863218;0.868218;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="114" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="114" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-01-18: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.005035;0.010035;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="114" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="114" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-19: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.273581;0.278581;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="114" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="114" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-01-20: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.288668;0.293668;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="114" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="114" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-21: 5 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.557214;0.562214;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="114" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="114" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-22: 6 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.576568;0.581568;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="114" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="114" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-23: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.845114;0.850114;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="114" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="114" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-01-24: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.866236;0.871236;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="130" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="130" y="82" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-25: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.008052;0.013052;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="130" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="130" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-01-26: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.270563;0.275563;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="130" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="130" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-01-27: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.291685;0.296685;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="130" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="130" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-28: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.554196;0.559196;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="130" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="130" y="146" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-01-29: 9 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.579585;0.584585;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="130" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="130" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-01-30: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.842097;0.847097;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="130" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="130" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-01-31: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.869253;0.874253;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="146" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="146" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-02-01: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.011069;0.016069;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="146" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="146" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-02: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.267546;0.272546;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="146" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="146" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-02-03: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.294702;0.299702;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="146" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="146" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-04: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.551179;0.556179;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="146" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="146" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-05: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.582603;0.587603;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="146" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="146" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-06: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.839079;0.844079;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="146" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="146" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-02-07: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.872270;0.877270;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="162" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="162" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-08: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.014087;0.019087;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="162" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="162" y="98" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-02-09: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.264529;0.269529;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="162" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="162" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-10: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.297720;0.302720;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="162" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="162" y="130" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-02-11: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.548162;0.553162;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="162" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="162" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-12: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.585620;0.590620;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="162" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="162" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-13: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.836062;0.841062;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="162" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="162" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-14: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.875288;0.880288;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="178" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="178" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-15: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.017104;0.022104;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="178" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="178" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-16: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.261511;0.266511;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="178" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="178" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-17: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.300737;0.305737;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="178" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="178" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-18: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.545144;0.550144;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="178" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="178" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-02-19: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.588637;0.593637;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="178" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="178" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-20: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.833045;0.838045;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="178" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="178" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-21: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.878305;0.883305;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="194" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="194" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-22: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.020122;0.025122;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="194" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="194" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-23: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.258494;0.263494;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="194" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="194" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-24: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.303755;0.308755;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="194" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="194" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-02-25: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.542127;0.547127;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="194" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="194" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-02-26: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.591655;0.596655;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="194" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="194" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-02-27: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.830027;0.835027;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="194" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="194" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-02-28: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.881322;0.886322;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="210" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="210" y="82" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-03-01: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.023139;0.028139;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="210" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="210" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-02: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.255477;0.260477;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="210" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="210" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-03: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.306772;0.311772;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="210" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="210" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-03-04: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.539110;0.544110;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="210" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="210" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-05: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.594672;0.599672;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="210" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="210" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-03-06: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.827010;0.832010;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="210" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="210" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-07: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.884340;0.889340;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="226" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="226" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-03-08: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.026156;0.031156;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="226" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="226" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-09: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.252459;0.257459;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="226" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="226" y="114" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-03-10: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.309789;0.314789;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="226" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="226" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-03-11: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.536092;0.541092;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="226" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="226" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-12: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.597690;0.602690;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="226" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="226" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-03-13: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.823992;0.828992;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="226" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="226" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-14: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.887357;0.892357;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="242" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="242" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-03-15: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.029174;0.034174;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="242" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="242" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-16: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.249442;0.254442;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="242" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="242" y="114" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-03-17: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.312807;0.317807;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="242" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="242" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-18: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.533075;0.538075;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="242" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="242" y="146" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-03-19: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.600707;0.605707;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="242" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="242" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-20: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.820975;0.825975;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="242" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="242" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-03-21: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.890375;0.895375;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="258" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="258" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-03-22: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.032191;0.037191;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="258" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="258" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-23: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.246425;0.251425;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="258" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="258" y="114" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-03-24: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.315824;0.320824;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="258" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="258" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-25: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.530057;0.535057;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="258" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="258" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-03-26: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.603724;0.608724;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="258" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="258" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-27: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.817958;0.822958;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="258" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="258" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-03-28: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.893392;0.898392;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="274" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="274" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-03-29: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.035208;0.040208;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="274" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="274" y="98" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-03-30: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.243407;0.248407;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="274" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="274" y="114" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-03-31: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.318841;0.323841;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="274" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="274" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-01: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.527040;0.532040;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="274" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="274" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-02: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.606742;0.611742;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="274" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="274" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-03: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.814940;0.819940;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="274" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="274" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-04: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.896409;0.901409;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="290" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="290" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-05: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.038226;0.043226;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="290" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="290" y="98" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-04-06: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.240390;0.245390;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="290" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="290" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-07: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.321859;0.326859;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="290" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="290" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-08: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.524023;0.529023;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="290" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="290" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-09: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.609759;0.614759;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="290" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="290" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-04-10: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.811923;0.816923;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="290" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="290" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-11: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.899427;0.904427;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="306" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="306" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-12: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.041243;0.046243;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="306" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="306" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-13: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.237372;0.242372;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="306" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="306" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-14: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.324876;0.329876;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="306" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="306" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-15: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.521005;0.526005;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="306" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="306" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-04-16: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.612776;0.617776;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="306" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="306" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-17: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.808906;0.813906;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="306" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="306" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-18: 6 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.902444;0.907444;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="322" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="322" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-19: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.044261;0.049261;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="322" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="322" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-20: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.234355;0.239355;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="322" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="322" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-21: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.327894;0.332894;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="322" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="322" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-22: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.517988;0.522988;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="322" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="322" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-04-23: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.615794;0.620794;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="322" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="322" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-04-24: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.805888;0.810888;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="322" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="322" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-04-25: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.905461;0.910461;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="338" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="338" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-26: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.047278;0.052278;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="338" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="338" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-27: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.231338;0.236338;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="338" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="338" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-04-28: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.330911;0.335911;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="338" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="338" y="130" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-04-29: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.514971;0.519971;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="338" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="338" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-04-30: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.618811;0.623811;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="338" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="338" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-05-01: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.802871;0.807871;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="338" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="338" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-02: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.908479;0.913479;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="354" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="354" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-05-03: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.050295;0.055295;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="354" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="354" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-04: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.228320;0.233320;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="354" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="354" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-05-05: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.333928;0.338928;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="354" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="354" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-06: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.511953;0.516953;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="354" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="354" y="146" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-05-07: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.621828;0.626828;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="354" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="354" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-05-08: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.799853;0.804853;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="354" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="354" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-09: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.911496;0.916496;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="370" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="370" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-05-10: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.053313;0.058313;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="370" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="370" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-11: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.225303;0.230303;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="370" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="370" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-05-12: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.336946;0.341946;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="370" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="370" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-13: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.508936;0.513936;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="370" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="370" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-05-14: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.624846;0.629846;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="370" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="370" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-15: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.796836;0.801836;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="370" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="370" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-05-16: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.914514;0.919514;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="386" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="386" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-17: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.056330;0.061330;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="386" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="386" y="98" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-05-18: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.222286;0.227286;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="386" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="386" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-05-19: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.339963;0.344963;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="386" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="386" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-20: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.505919;0.510919;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="386" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="386" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-05-21: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.627863;0.632863;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="386" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="386" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-22: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.793819;0.798819;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="386" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="386" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-05-23: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.917531;0.922531;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="402" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="402" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-24: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.059347;0.064347;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="402" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="402" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-05-25: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.219268;0.224268;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="402" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="402" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-26: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.342980;0.347980;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="402" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="402" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-27: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.502901;0.507901;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="402" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="402" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-05-28: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.630881;0.635881;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="402" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="402" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-29: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.790801;0.795801;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="402" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="402" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-05-30: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.920548;0.925548;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="418" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="418" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-05-31: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.062365;0.067365;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="418" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="418" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-06-01: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.216251;0.221251;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="418" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="418" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-02: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.345998;0.350998;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="418" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="418" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-06-03: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.499884;0.504884;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="418" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="418" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-04: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.633898;0.638898;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="418" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="418" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="418" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-06-06: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.923566;0.928566;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="434" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="434" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-07: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.065382;0.070382;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="434" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="434" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-06-08: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.213233;0.218233;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="434" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="434" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-09: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.349015;0.354015;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="434" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="434" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-06-10: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.496866;0.501866;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="434" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="434" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-11: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.636915;0.641915;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="434" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="434" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-12: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.784767;0.789767;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="434" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="434" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-13: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.926583;0.931583;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="450" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="450" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-14: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.068400;0.073400;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="450" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="450" y="98" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-15: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.210216;0.215216;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="450" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="450" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-16: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.352033;0.357033;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="450" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="450" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-06-17: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.493849;0.498849;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="450" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="450" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-18: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.639933;0.644933;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="450" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="450" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-19: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.781749;0.786749;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="450" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="450" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-20: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.929600;0.934600;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="466" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="466" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-21: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.071417;0.076417;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="466" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="466" y="98" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-22: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.207199;0.212199;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="466" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="466" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-23: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.355050;0.360050;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="466" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="466" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-24: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.490832;0.495832;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="466" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="466" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-25: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.642950;0.647950;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="466" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="466" y="162" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-06-26: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.778732;0.783732;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="466" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="466" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-06-27: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.932618;0.937618;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="482" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="482" y="82" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-06-28: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.074434;0.079434;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="482" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="482" y="98" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-06-29: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.204181;0.209181;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="482" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="482" y="114" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-06-30: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.358067;0.363067;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="482" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="482" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-01: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.487814;0.492814;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="482" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="482" y="146" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-07-02: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.645967;0.650967;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="482" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="482" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-03: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.775714;0.780714;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="482" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="482" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-07-04: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.935635;0.940635;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="498" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="498" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-07-05: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.077452;0.082452;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="498" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="498" y="98" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-07-06: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.201164;0.206164;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="498" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="498" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-07-07: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.361085;0.366085;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="498" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="498" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-08: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.484797;0.489797;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="498" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="498" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-09: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.648985;0.653985;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="498" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="498" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-10: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.772697;0.777697;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="498" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="498" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-11: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.938653;0.943653;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="514" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="514" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-12: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.080469;0.085469;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="514" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="514" y="98" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-07-13: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.198147;0.203147;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="514" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="514" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-14: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.364102;0.369102;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="514" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="514" y="130" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-07-15: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.481780;0.486780;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="514" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="514" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-16: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.652002;0.657002;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="514" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="514" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-17: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.769680;0.774680;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="514" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="514" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-18: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.941670;0.946670;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="530" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="530" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-19: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.083486;0.088486;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="530" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="530" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-20: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.195129;0.200129;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="530" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="530" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-21: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.367119;0.372119;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="530" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="530" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-22: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.478762;0.483762;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="530" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="530" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-07-23: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.655020;0.660020;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="530" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="530" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-24: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.766662;0.771662;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="530" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="530" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-07-25: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.944687;0.949687;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="546" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="546" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-26: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.086504;0.091504;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="546" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="546" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-27: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.192112;0.197112;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="546" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="546" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-28: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.370137;0.375137;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="546" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="546" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-07-29: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.475745;0.480745;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="546" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="546" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-07-30: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.658037;0.663037;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="546" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="546" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-07-31: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.763645;0.768645;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="546" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="546" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-01: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.947705;0.952705;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="562" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="562" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-02: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.089521;0.094521;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="562" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="562" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-08-03: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.189094;0.194094;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="562" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="562" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-04: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.373154;0.378154;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="562" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="562" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-08-05: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.472727;0.477727;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="562" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="562" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-06: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.661054;0.666054;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="562" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="562" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-07: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.760628;0.765628;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="562" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="562" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-08: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.950722;0.955722;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="578" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="578" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-09: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.092539;0.097539;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="578" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="578" y="98" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-10: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.186077;0.191077;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="578" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="578" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-11: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.376172;0.381172;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="578" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="578" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-12: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.469710;0.474710;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="578" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="578" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-13: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.664072;0.669072;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="578" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="578" y="162" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-08-14: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.757610;0.762610;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="578" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="578" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-15: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.953739;0.958739;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="594" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="594" y="82" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-08-16: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.095556;0.100556;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="594" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="594" y="98" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-17: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.183060;0.188060;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="594" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="594" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-18: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.379189;0.384189;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="594" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="594" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-19: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.466693;0.471693;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="594" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="594" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-20: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.667089;0.672089;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="594" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="594" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-08-21: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.754593;0.759593;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="594" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="594" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-22: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.956757;0.961757;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="610" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="610" y="82" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-08-23: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.098573;0.103573;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="610" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="610" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-24: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.180042;0.185042;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="610" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="610" y="114" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-08-25: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.382206;0.387206;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="610" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="610" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-08-26: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.463675;0.468675;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="610" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="610" y="146" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-08-27: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.670106;0.675106;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="610" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="610" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-08-28: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.751575;0.756575;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="610" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="610" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-29: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.959774;0.964774;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="626" y="82" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-08-30: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.101591;0.106591;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="626" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-08-31: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.177025;0.182025;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="626" y="114" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-09-01: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.385224;0.390224;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="626" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-02: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.460658;0.465658;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="626" y="146" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-09-03: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.673124;0.678124;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="626" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-09-04: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.748558;0.753558;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="626" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-05: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.962792;0.967792;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="642" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="642" y="82" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-09-06: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.104608;0.109608;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="642" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="642" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-07: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.174008;0.179008;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="642" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="642" y="114" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-09-08: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.388241;0.393241;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="642" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="642" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-09: 5 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.457641;0.462641;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="642" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="642" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-10: 5 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.676141;0.681141;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="642" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="642" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-11: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.745541;0.750541;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="642" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="642" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-09-12: 21 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.965809;0.970809;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="658" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="658" y="82" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-09-13: 23 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.107625;0.112625;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="658" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="658" y="98" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-09-14: 10 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.170990;0.175990;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="658" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="658" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-09-15: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.391258;0.396258;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="658" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="658" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-16: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.454623;0.459623;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="658" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="658" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-09-17: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.679159;0.684159;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="658" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="658" y="162" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-18: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.742523;0.747523;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="658" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="658" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-19: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.968826;0.973826;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="674" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="674" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-09-20: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.110643;0.115643;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="674" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="674" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-21: 5 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.167973;0.172973;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="674" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="674" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-09-22: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.394276;0.399276;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="674" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="674" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-23: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.451606;0.456606;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="674" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="674" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-09-24: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.682176;0.687176;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="674" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="674" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-09-25: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.739506;0.744506;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="674" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="674" y="178" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-09-26: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.971844;0.976844;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="690" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="690" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-09-27: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.113660;0.118660;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="690" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="690" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-09-28: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.164955;0.169955;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="690" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="690" y="114" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-09-29: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.397293;0.402293;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="690" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="690" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-09-30: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.448588;0.453588;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="690" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="690" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-10-01: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.685193;0.690193;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="690" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="690" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-10-02: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.736489;0.741489;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="690" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="690" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-10-03: 5 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.974861;0.979861;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="706" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="706" y="82" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-10-04: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.116678;0.121678;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="706" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="706" y="98" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-10-05: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.161938;0.166938;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="706" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="706" y="114" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-10-06: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.400310;0.405310;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="706" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="706" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-10-07: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.445571;0.450571;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="706" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="706" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-10-08: 7 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.688211;0.693211;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="706" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="706" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-10-09: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.733471;0.738471;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="706" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="706" y="178" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-10-10: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.977878;0.982878;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="722" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="722" y="82" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-10-11: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.119695;0.124695;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="722" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="722" y="98" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-10-12: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.158921;0.163921;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="722" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="722" y="114" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-10-13: 12 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.403328;0.408328;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="722" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="722" y="130" width="12" height="12" rx="2" fill="#39D353">
+<title>2026-10-14: 16 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.442554;0.447554;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="722" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="722" y="146" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-10-15: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.691228;0.696228;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="722" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="722" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-10-16: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.730454;0.735454;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="722" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="738" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="738" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="738" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="738" y="114" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-10-20: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.406345;0.411345;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="738" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="738" y="130" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-10-21: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.439536;0.444536;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="738" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="738" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="738" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="130" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-10-28: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.436519;0.441519;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="754" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="162" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-10-30: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.724419;0.729419;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="754" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="754" y="178" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-10-31: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.986931;0.991931;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="770" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="770" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="770" y="98" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-11-02: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.149869;0.154869;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="770" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="770" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="770" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="770" y="146" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-11-05: 4 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.700280;0.705280;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="770" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="770" y="162" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-11-06: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.721402;0.726402;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="770" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="770" y="178" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-11-07: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.989948;0.994948;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="786" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="786" y="82" width="12" height="12" rx="2" fill="#26A641">
+<title>2026-11-08: 6 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.131764;0.136764;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="786" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="786" y="98" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-11-09: 2 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.146851;0.151851;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="786" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="786" y="114" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-11-10: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.415397;0.420397;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="786" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="786" y="130" width="12" height="12" rx="2" fill="#006D32">
+<title>2026-11-11: 3 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.430484;0.435484;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="786" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="786" y="146" width="12" height="12" rx="2" fill="#0E4429">
+<title>2026-11-12: 1 contribution(s)</title>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.703298;0.708298;1" dur="24s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="786" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="786" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="802" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="802" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="802" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="802" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="802" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="802" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="802" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="818" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="818" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="818" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="818" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="818" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="818" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="818" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="834" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="834" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="834" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="834" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="834" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="834" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="834" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="850" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="850" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="850" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="850" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="850" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="850" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="850" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="866" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="866" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="866" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="866" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="866" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="866" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="866" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="882" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="882" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="882" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="882" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="882" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="882" y="162" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="882" y="178" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="898" y="82" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="898" y="98" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="898" y="114" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="898" y="130" width="12" height="12" rx="2" fill="#161B22"/>
+<rect x="898" y="146" width="12" height="12" rx="2" fill="#161B22"/>
+<g aria-hidden="true">
+<rect x="83" y="83" width="10" height="10" rx="3" fill="#D5FAEE" opacity="0.45"><animateMotion dur="24s" begin="0.85s" repeatCount="indefinite" calcMode="linear" path="M 0,0 L 16,0 L 32,0 L 48,0 L 64,0 L 80,0 L 96,0 L 112,0 L 128,0 L 144,0 L 160,0 L 176,0 L 192,0 L 208,0 L 224,0 L 240,0 L 256,0 L 272,0 L 288,0 L 304,0 L 320,0 L 336,0 L 352,0 L 368,0 L 384,0 L 400,0 L 416,0 L 432,0 L 448,0 L 464,0 L 480,0 L 496,0 L 512,0 L 528,0 L 544,0 L 560,0 L 576,0 L 592,0 L 608,0 L 624,0 L 640,0 L 656,0 L 672,0 L 688,0 L 704,0 L 720,0 L 736,0 L 736,16 L 720,16 L 704,16 L 688,16 L 672,16 L 656,16 L 640,16 L 624,16 L 608,16 L 592,16 L 576,16 L 560,16 L 544,16 L 528,16 L 512,16 L 496,16 L 480,16 L 464,16 L 448,16 L 432,16 L 416,16 L 400,16 L 384,16 L 368,16 L 352,16 L 336,16 L 320,16 L 304,16 L 288,16 L 272,16 L 256,16 L 240,16 L 224,16 L 208,16 L 192,16 L 176,16 L 160,16 L 144,16 L 128,16 L 112,16 L 96,16 L 80,16 L 64,16 L 48,16 L 32,16 L 16,16 L 0,16 L 0,32 L 16,32 L 32,32 L 48,32 L 64,32 L 80,32 L 96,32 L 112,32 L 128,32 L 144,32 L 160,32 L 176,32 L 192,32 L 208,32 L 224,32 L 240,32 L 256,32 L 272,32 L 288,32 L 304,32 L 320,32 L 336,32 L 352,32 L 368,32 L 384,32 L 400,32 L 416,32 L 432,32 L 448,32 L 464,32 L 480,32 L 496,32 L 512,32 L 528,32 L 544,32 L 560,32 L 576,32 L 592,32 L 608,32 L 624,32 L 640,32 L 656,32 L 672,32 L 688,32 L 704,32 L 720,32 L 736,32 L 736,48 L 720,48 L 704,48 L 688,48 L 672,48 L 656,48 L 640,48 L 624,48 L 608,48 L 592,48 L 576,48 L 560,48 L 544,48 L 528,48 L 512,48 L 496,48 L 480,48 L 464,48 L 448,48 L 432,48 L 416,48 L 400,48 L 384,48 L 368,48 L 352,48 L 336,48 L 320,48 L 304,48 L 288,48 L 272,48 L 256,48 L 240,48 L 224,48 L 208,48 L 192,48 L 176,48 L 160,48 L 144,48 L 128,48 L 112,48 L 96,48 L 80,48 L 64,48 L 48,48 L 32,48 L 16,48 L 0,48 L -16,64 L 0,64 L 16,64 L 32,64 L 48,64 L 64,64 L 80,64 L 96,64 L 112,64 L 128,64 L 144,64 L 160,64 L 176,64 L 192,64 L 208,64 L 224,64 L 240,64 L 256,64 L 272,64 L 288,64 L 304,64 L 320,64 L 336,64 L 352,64 L 368,64 L 384,64 L 400,64 L 416,64 L 432,64 L 448,64 L 464,64 L 480,64 L 496,64 L 512,64 L 528,64 L 544,64 L 560,64 L 576,64 L 592,64 L 608,64 L 624,64 L 640,64 L 656,64 L 672,64 L 688,64 L 704,64 L 720,64 L 736,64 L 736,80 L 720,80 L 704,80 L 688,80 L 672,80 L 656,80 L 640,80 L 624,80 L 608,80 L 592,80 L 576,80 L 560,80 L 544,80 L 528,80 L 512,80 L 496,80 L 480,80 L 464,80 L 448,80 L 432,80 L 416,80 L 400,80 L 384,80 L 368,80 L 352,80 L 336,80 L 320,80 L 304,80 L 288,80 L 272,80 L 256,80 L 240,80 L 224,80 L 208,80 L 192,80 L 176,80 L 160,80 L 144,80 L 128,80 L 112,80 L 96,80 L 80,80 L 64,80 L 48,80 L 32,80 L 16,80 L 0,80 L -16,80 L -16,96 L 0,96 L 16,96 L 32,96 L 48,96 L 64,96 L 80,96 L 96,96 L 112,96 L 128,96 L 144,96 L 160,96 L 176,96 L 192,96 L 208,96 L 224,96 L 240,96 L 256,96 L 272,96 L 288,96 L 304,96 L 320,96 L 336,96 L 352,96 L 368,96 L 384,96 L 400,96 L 416,96 L 432,96 L 448,96 L 464,96 L 480,96 L 496,96 L 512,96 L 528,96 L 544,96 L 560,96 L 576,96 L 592,96 L 608,96 L 624,96 L 640,96 L 656,96 L 672,96 L 688,96 L 704,96 L 720,96 L 736,96"/></rect>
+<rect x="83" y="83" width="10" height="10" rx="3" fill="#A7F3D0" opacity="0.56"><animateMotion dur="24s" begin="0.68s" repeatCount="indefinite" calcMode="linear" path="M 0,0 L 16,0 L 32,0 L 48,0 L 64,0 L 80,0 L 96,0 L 112,0 L 128,0 L 144,0 L 160,0 L 176,0 L 192,0 L 208,0 L 224,0 L 240,0 L 256,0 L 272,0 L 288,0 L 304,0 L 320,0 L 336,0 L 352,0 L 368,0 L 384,0 L 400,0 L 416,0 L 432,0 L 448,0 L 464,0 L 480,0 L 496,0 L 512,0 L 528,0 L 544,0 L 560,0 L 576,0 L 592,0 L 608,0 L 624,0 L 640,0 L 656,0 L 672,0 L 688,0 L 704,0 L 720,0 L 736,0 L 736,16 L 720,16 L 704,16 L 688,16 L 672,16 L 656,16 L 640,16 L 624,16 L 608,16 L 592,16 L 576,16 L 560,16 L 544,16 L 528,16 L 512,16 L 496,16 L 480,16 L 464,16 L 448,16 L 432,16 L 416,16 L 400,16 L 384,16 L 368,16 L 352,16 L 336,16 L 320,16 L 304,16 L 288,16 L 272,16 L 256,16 L 240,16 L 224,16 L 208,16 L 192,16 L 176,16 L 160,16 L 144,16 L 128,16 L 112,16 L 96,16 L 80,16 L 64,16 L 48,16 L 32,16 L 16,16 L 0,16 L 0,32 L 16,32 L 32,32 L 48,32 L 64,32 L 80,32 L 96,32 L 112,32 L 128,32 L 144,32 L 160,32 L 176,32 L 192,32 L 208,32 L 224,32 L 240,32 L 256,32 L 272,32 L 288,32 L 304,32 L 320,32 L 336,32 L 352,32 L 368,32 L 384,32 L 400,32 L 416,32 L 432,32 L 448,32 L 464,32 L 480,32 L 496,32 L 512,32 L 528,32 L 544,32 L 560,32 L 576,32 L 592,32 L 608,32 L 624,32 L 640,32 L 656,32 L 672,32 L 688,32 L 704,32 L 720,32 L 736,32 L 736,48 L 720,48 L 704,48 L 688,48 L 672,48 L 656,48 L 640,48 L 624,48 L 608,48 L 592,48 L 576,48 L 560,48 L 544,48 L 528,48 L 512,48 L 496,48 L 480,48 L 464,48 L 448,48 L 432,48 L 416,48 L 400,48 L 384,48 L 368,48 L 352,48 L 336,48 L 320,48 L 304,48 L 288,48 L 272,48 L 256,48 L 240,48 L 224,48 L 208,48 L 192,48 L 176,48 L 160,48 L 144,48 L 128,48 L 112,48 L 96,48 L 80,48 L 64,48 L 48,48 L 32,48 L 16,48 L 0,48 L -16,64 L 0,64 L 16,64 L 32,64 L 48,64 L 64,64 L 80,64 L 96,64 L 112,64 L 128,64 L 144,64 L 160,64 L 176,64 L 192,64 L 208,64 L 224,64 L 240,64 L 256,64 L 272,64 L 288,64 L 304,64 L 320,64 L 336,64 L 352,64 L 368,64 L 384,64 L 400,64 L 416,64 L 432,64 L 448,64 L 464,64 L 480,64 L 496,64 L 512,64 L 528,64 L 544,64 L 560,64 L 576,64 L 592,64 L 608,64 L 624,64 L 640,64 L 656,64 L 672,64 L 688,64 L 704,64 L 720,64 L 736,64 L 736,80 L 720,80 L 704,80 L 688,80 L 672,80 L 656,80 L 640,80 L 624,80 L 608,80 L 592,80 L 576,80 L 560,80 L 544,80 L 528,80 L 512,80 L 496,80 L 480,80 L 464,80 L 448,80 L 432,80 L 416,80 L 400,80 L 384,80 L 368,80 L 352,80 L 336,80 L 320,80 L 304,80 L 288,80 L 272,80 L 256,80 L 240,80 L 224,80 L 208,80 L 192,80 L 176,80 L 160,80 L 144,80 L 128,80 L 112,80 L 96,80 L 80,80 L 64,80 L 48,80 L 32,80 L 16,80 L 0,80 L -16,80 L -16,96 L 0,96 L 16,96 L 32,96 L 48,96 L 64,96 L 80,96 L 96,96 L 112,96 L 128,96 L 144,96 L 160,96 L 176,96 L 192,96 L 208,96 L 224,96 L 240,96 L 256,96 L 272,96 L 288,96 L 304,96 L 320,96 L 336,96 L 352,96 L 368,96 L 384,96 L 400,96 L 416,96 L 432,96 L 448,96 L 464,96 L 480,96 L 496,96 L 512,96 L 528,96 L 544,96 L 560,96 L 576,96 L 592,96 L 608,96 L 624,96 L 640,96 L 656,96 L 672,96 L 688,96 L 704,96 L 720,96 L 736,96"/></rect>
+<rect x="83" y="83" width="10" height="10" rx="3" fill="#75E3D3" opacity="0.67"><animateMotion dur="24s" begin="0.51s" repeatCount="indefinite" calcMode="linear" path="M 0,0 L 16,0 L 32,0 L 48,0 L 64,0 L 80,0 L 96,0 L 112,0 L 128,0 L 144,0 L 160,0 L 176,0 L 192,0 L 208,0 L 224,0 L 240,0 L 256,0 L 272,0 L 288,0 L 304,0 L 320,0 L 336,0 L 352,0 L 368,0 L 384,0 L 400,0 L 416,0 L 432,0 L 448,0 L 464,0 L 480,0 L 496,0 L 512,0 L 528,0 L 544,0 L 560,0 L 576,0 L 592,0 L 608,0 L 624,0 L 640,0 L 656,0 L 672,0 L 688,0 L 704,0 L 720,0 L 736,0 L 736,16 L 720,16 L 704,16 L 688,16 L 672,16 L 656,16 L 640,16 L 624,16 L 608,16 L 592,16 L 576,16 L 560,16 L 544,16 L 528,16 L 512,16 L 496,16 L 480,16 L 464,16 L 448,16 L 432,16 L 416,16 L 400,16 L 384,16 L 368,16 L 352,16 L 336,16 L 320,16 L 304,16 L 288,16 L 272,16 L 256,16 L 240,16 L 224,16 L 208,16 L 192,16 L 176,16 L 160,16 L 144,16 L 128,16 L 112,16 L 96,16 L 80,16 L 64,16 L 48,16 L 32,16 L 16,16 L 0,16 L 0,32 L 16,32 L 32,32 L 48,32 L 64,32 L 80,32 L 96,32 L 112,32 L 128,32 L 144,32 L 160,32 L 176,32 L 192,32 L 208,32 L 224,32 L 240,32 L 256,32 L 272,32 L 288,32 L 304,32 L 320,32 L 336,32 L 352,32 L 368,32 L 384,32 L 400,32 L 416,32 L 432,32 L 448,32 L 464,32 L 480,32 L 496,32 L 512,32 L 528,32 L 544,32 L 560,32 L 576,32 L 592,32 L 608,32 L 624,32 L 640,32 L 656,32 L 672,32 L 688,32 L 704,32 L 720,32 L 736,32 L 736,48 L 720,48 L 704,48 L 688,48 L 672,48 L 656,48 L 640,48 L 624,48 L 608,48 L 592,48 L 576,48 L 560,48 L 544,48 L 528,48 L 512,48 L 496,48 L 480,48 L 464,48 L 448,48 L 432,48 L 416,48 L 400,48 L 384,48 L 368,48 L 352,48 L 336,48 L 320,48 L 304,48 L 288,48 L 272,48 L 256,48 L 240,48 L 224,48 L 208,48 L 192,48 L 176,48 L 160,48 L 144,48 L 128,48 L 112,48 L 96,48 L 80,48 L 64,48 L 48,48 L 32,48 L 16,48 L 0,48 L -16,64 L 0,64 L 16,64 L 32,64 L 48,64 L 64,64 L 80,64 L 96,64 L 112,64 L 128,64 L 144,64 L 160,64 L 176,64 L 192,64 L 208,64 L 224,64 L 240,64 L 256,64 L 272,64 L 288,64 L 304,64 L 320,64 L 336,64 L 352,64 L 368,64 L 384,64 L 400,64 L 416,64 L 432,64 L 448,64 L 464,64 L 480,64 L 496,64 L 512,64 L 528,64 L 544,64 L 560,64 L 576,64 L 592,64 L 608,64 L 624,64 L 640,64 L 656,64 L 672,64 L 688,64 L 704,64 L 720,64 L 736,64 L 736,80 L 720,80 L 704,80 L 688,80 L 672,80 L 656,80 L 640,80 L 624,80 L 608,80 L 592,80 L 576,80 L 560,80 L 544,80 L 528,80 L 512,80 L 496,80 L 480,80 L 464,80 L 448,80 L 432,80 L 416,80 L 400,80 L 384,80 L 368,80 L 352,80 L 336,80 L 320,80 L 304,80 L 288,80 L 272,80 L 256,80 L 240,80 L 224,80 L 208,80 L 192,80 L 176,80 L 160,80 L 144,80 L 128,80 L 112,80 L 96,80 L 80,80 L 64,80 L 48,80 L 32,80 L 16,80 L 0,80 L -16,80 L -16,96 L 0,96 L 16,96 L 32,96 L 48,96 L 64,96 L 80,96 L 96,96 L 112,96 L 128,96 L 144,96 L 160,96 L 176,96 L 192,96 L 208,96 L 224,96 L 240,96 L 256,96 L 272,96 L 288,96 L 304,96 L 320,96 L 336,96 L 352,96 L 368,96 L 384,96 L 400,96 L 416,96 L 432,96 L 448,96 L 464,96 L 480,96 L 496,96 L 512,96 L 528,96 L 544,96 L 560,96 L 576,96 L 592,96 L 608,96 L 624,96 L 640,96 L 656,96 L 672,96 L 688,96 L 704,96 L 720,96 L 736,96"/></rect>
+<rect x="83" y="83" width="10" height="10" rx="3" fill="#4BE0C6" opacity="0.78"><animateMotion dur="24s" begin="0.34s" repeatCount="indefinite" calcMode="linear" path="M 0,0 L 16,0 L 32,0 L 48,0 L 64,0 L 80,0 L 96,0 L 112,0 L 128,0 L 144,0 L 160,0 L 176,0 L 192,0 L 208,0 L 224,0 L 240,0 L 256,0 L 272,0 L 288,0 L 304,0 L 320,0 L 336,0 L 352,0 L 368,0 L 384,0 L 400,0 L 416,0 L 432,0 L 448,0 L 464,0 L 480,0 L 496,0 L 512,0 L 528,0 L 544,0 L 560,0 L 576,0 L 592,0 L 608,0 L 624,0 L 640,0 L 656,0 L 672,0 L 688,0 L 704,0 L 720,0 L 736,0 L 736,16 L 720,16 L 704,16 L 688,16 L 672,16 L 656,16 L 640,16 L 624,16 L 608,16 L 592,16 L 576,16 L 560,16 L 544,16 L 528,16 L 512,16 L 496,16 L 480,16 L 464,16 L 448,16 L 432,16 L 416,16 L 400,16 L 384,16 L 368,16 L 352,16 L 336,16 L 320,16 L 304,16 L 288,16 L 272,16 L 256,16 L 240,16 L 224,16 L 208,16 L 192,16 L 176,16 L 160,16 L 144,16 L 128,16 L 112,16 L 96,16 L 80,16 L 64,16 L 48,16 L 32,16 L 16,16 L 0,16 L 0,32 L 16,32 L 32,32 L 48,32 L 64,32 L 80,32 L 96,32 L 112,32 L 128,32 L 144,32 L 160,32 L 176,32 L 192,32 L 208,32 L 224,32 L 240,32 L 256,32 L 272,32 L 288,32 L 304,32 L 320,32 L 336,32 L 352,32 L 368,32 L 384,32 L 400,32 L 416,32 L 432,32 L 448,32 L 464,32 L 480,32 L 496,32 L 512,32 L 528,32 L 544,32 L 560,32 L 576,32 L 592,32 L 608,32 L 624,32 L 640,32 L 656,32 L 672,32 L 688,32 L 704,32 L 720,32 L 736,32 L 736,48 L 720,48 L 704,48 L 688,48 L 672,48 L 656,48 L 640,48 L 624,48 L 608,48 L 592,48 L 576,48 L 560,48 L 544,48 L 528,48 L 512,48 L 496,48 L 480,48 L 464,48 L 448,48 L 432,48 L 416,48 L 400,48 L 384,48 L 368,48 L 352,48 L 336,48 L 320,48 L 304,48 L 288,48 L 272,48 L 256,48 L 240,48 L 224,48 L 208,48 L 192,48 L 176,48 L 160,48 L 144,48 L 128,48 L 112,48 L 96,48 L 80,48 L 64,48 L 48,48 L 32,48 L 16,48 L 0,48 L -16,64 L 0,64 L 16,64 L 32,64 L 48,64 L 64,64 L 80,64 L 96,64 L 112,64 L 128,64 L 144,64 L 160,64 L 176,64 L 192,64 L 208,64 L 224,64 L 240,64 L 256,64 L 272,64 L 288,64 L 304,64 L 320,64 L 336,64 L 352,64 L 368,64 L 384,64 L 400,64 L 416,64 L 432,64 L 448,64 L 464,64 L 480,64 L 496,64 L 512,64 L 528,64 L 544,64 L 560,64 L 576,64 L 592,64 L 608,64 L 624,64 L 640,64 L 656,64 L 672,64 L 688,64 L 704,64 L 720,64 L 736,64 L 736,80 L 720,80 L 704,80 L 688,80 L 672,80 L 656,80 L 640,80 L 624,80 L 608,80 L 592,80 L 576,80 L 560,80 L 544,80 L 528,80 L 512,80 L 496,80 L 480,80 L 464,80 L 448,80 L 432,80 L 416,80 L 400,80 L 384,80 L 368,80 L 352,80 L 336,80 L 320,80 L 304,80 L 288,80 L 272,80 L 256,80 L 240,80 L 224,80 L 208,80 L 192,80 L 176,80 L 160,80 L 144,80 L 128,80 L 112,80 L 96,80 L 80,80 L 64,80 L 48,80 L 32,80 L 16,80 L 0,80 L -16,80 L -16,96 L 0,96 L 16,96 L 32,96 L 48,96 L 64,96 L 80,96 L 96,96 L 112,96 L 128,96 L 144,96 L 160,96 L 176,96 L 192,96 L 208,96 L 224,96 L 240,96 L 256,96 L 272,96 L 288,96 L 304,96 L 320,96 L 336,96 L 352,96 L 368,96 L 384,96 L 400,96 L 416,96 L 432,96 L 448,96 L 464,96 L 480,96 L 496,96 L 512,96 L 528,96 L 544,96 L 560,96 L 576,96 L 592,96 L 608,96 L 624,96 L 640,96 L 656,96 L 672,96 L 688,96 L 704,96 L 720,96 L 736,96"/></rect>
+<rect x="83" y="83" width="10" height="10" rx="3" fill="#35D8BC" opacity="0.89"><animateMotion dur="24s" begin="0.17s" repeatCount="indefinite" calcMode="linear" path="M 0,0 L 16,0 L 32,0 L 48,0 L 64,0 L 80,0 L 96,0 L 112,0 L 128,0 L 144,0 L 160,0 L 176,0 L 192,0 L 208,0 L 224,0 L 240,0 L 256,0 L 272,0 L 288,0 L 304,0 L 320,0 L 336,0 L 352,0 L 368,0 L 384,0 L 400,0 L 416,0 L 432,0 L 448,0 L 464,0 L 480,0 L 496,0 L 512,0 L 528,0 L 544,0 L 560,0 L 576,0 L 592,0 L 608,0 L 624,0 L 640,0 L 656,0 L 672,0 L 688,0 L 704,0 L 720,0 L 736,0 L 736,16 L 720,16 L 704,16 L 688,16 L 672,16 L 656,16 L 640,16 L 624,16 L 608,16 L 592,16 L 576,16 L 560,16 L 544,16 L 528,16 L 512,16 L 496,16 L 480,16 L 464,16 L 448,16 L 432,16 L 416,16 L 400,16 L 384,16 L 368,16 L 352,16 L 336,16 L 320,16 L 304,16 L 288,16 L 272,16 L 256,16 L 240,16 L 224,16 L 208,16 L 192,16 L 176,16 L 160,16 L 144,16 L 128,16 L 112,16 L 96,16 L 80,16 L 64,16 L 48,16 L 32,16 L 16,16 L 0,16 L 0,32 L 16,32 L 32,32 L 48,32 L 64,32 L 80,32 L 96,32 L 112,32 L 128,32 L 144,32 L 160,32 L 176,32 L 192,32 L 208,32 L 224,32 L 240,32 L 256,32 L 272,32 L 288,32 L 304,32 L 320,32 L 336,32 L 352,32 L 368,32 L 384,32 L 400,32 L 416,32 L 432,32 L 448,32 L 464,32 L 480,32 L 496,32 L 512,32 L 528,32 L 544,32 L 560,32 L 576,32 L 592,32 L 608,32 L 624,32 L 640,32 L 656,32 L 672,32 L 688,32 L 704,32 L 720,32 L 736,32 L 736,48 L 720,48 L 704,48 L 688,48 L 672,48 L 656,48 L 640,48 L 624,48 L 608,48 L 592,48 L 576,48 L 560,48 L 544,48 L 528,48 L 512,48 L 496,48 L 480,48 L 464,48 L 448,48 L 432,48 L 416,48 L 400,48 L 384,48 L 368,48 L 352,48 L 336,48 L 320,48 L 304,48 L 288,48 L 272,48 L 256,48 L 240,48 L 224,48 L 208,48 L 192,48 L 176,48 L 160,48 L 144,48 L 128,48 L 112,48 L 96,48 L 80,48 L 64,48 L 48,48 L 32,48 L 16,48 L 0,48 L -16,64 L 0,64 L 16,64 L 32,64 L 48,64 L 64,64 L 80,64 L 96,64 L 112,64 L 128,64 L 144,64 L 160,64 L 176,64 L 192,64 L 208,64 L 224,64 L 240,64 L 256,64 L 272,64 L 288,64 L 304,64 L 320,64 L 336,64 L 352,64 L 368,64 L 384,64 L 400,64 L 416,64 L 432,64 L 448,64 L 464,64 L 480,64 L 496,64 L 512,64 L 528,64 L 544,64 L 560,64 L 576,64 L 592,64 L 608,64 L 624,64 L 640,64 L 656,64 L 672,64 L 688,64 L 704,64 L 720,64 L 736,64 L 736,80 L 720,80 L 704,80 L 688,80 L 672,80 L 656,80 L 640,80 L 624,80 L 608,80 L 592,80 L 576,80 L 560,80 L 544,80 L 528,80 L 512,80 L 496,80 L 480,80 L 464,80 L 448,80 L 432,80 L 416,80 L 400,80 L 384,80 L 368,80 L 352,80 L 336,80 L 320,80 L 304,80 L 288,80 L 272,80 L 256,80 L 240,80 L 224,80 L 208,80 L 192,80 L 176,80 L 160,80 L 144,80 L 128,80 L 112,80 L 96,80 L 80,80 L 64,80 L 48,80 L 32,80 L 16,80 L 0,80 L -16,80 L -16,96 L 0,96 L 16,96 L 32,96 L 48,96 L 64,96 L 80,96 L 96,96 L 112,96 L 128,96 L 144,96 L 160,96 L 176,96 L 192,96 L 208,96 L 224,96 L 240,96 L 256,96 L 272,96 L 288,96 L 304,96 L 320,96 L 336,96 L 352,96 L 368,96 L 384,96 L 400,96 L 416,96 L 432,96 L 448,96 L 464,96 L 480,96 L 496,96 L 512,96 L 528,96 L 544,96 L 560,96 L 576,96 L 592,96 L 608,96 L 624,96 L 640,96 L 656,96 L 672,96 L 688,96 L 704,96 L 720,96 L 736,96"/></rect>
+<rect x="83" y="83" width="10" height="10" rx="3" fill="#2DD4BF" opacity="1.00"><animateMotion dur="24s" begin="0.00s" repeatCount="indefinite" calcMode="linear" path="M 0,0 L 16,0 L 32,0 L 48,0 L 64,0 L 80,0 L 96,0 L 112,0 L 128,0 L 144,0 L 160,0 L 176,0 L 192,0 L 208,0 L 224,0 L 240,0 L 256,0 L 272,0 L 288,0 L 304,0 L 320,0 L 336,0 L 352,0 L 368,0 L 384,0 L 400,0 L 416,0 L 432,0 L 448,0 L 464,0 L 480,0 L 496,0 L 512,0 L 528,0 L 544,0 L 560,0 L 576,0 L 592,0 L 608,0 L 624,0 L 640,0 L 656,0 L 672,0 L 688,0 L 704,0 L 720,0 L 736,0 L 736,16 L 720,16 L 704,16 L 688,16 L 672,16 L 656,16 L 640,16 L 624,16 L 608,16 L 592,16 L 576,16 L 560,16 L 544,16 L 528,16 L 512,16 L 496,16 L 480,16 L 464,16 L 448,16 L 432,16 L 416,16 L 400,16 L 384,16 L 368,16 L 352,16 L 336,16 L 320,16 L 304,16 L 288,16 L 272,16 L 256,16 L 240,16 L 224,16 L 208,16 L 192,16 L 176,16 L 160,16 L 144,16 L 128,16 L 112,16 L 96,16 L 80,16 L 64,16 L 48,16 L 32,16 L 16,16 L 0,16 L 0,32 L 16,32 L 32,32 L 48,32 L 64,32 L 80,32 L 96,32 L 112,32 L 128,32 L 144,32 L 160,32 L 176,32 L 192,32 L 208,32 L 224,32 L 240,32 L 256,32 L 272,32 L 288,32 L 304,32 L 320,32 L 336,32 L 352,32 L 368,32 L 384,32 L 400,32 L 416,32 L 432,32 L 448,32 L 464,32 L 480,32 L 496,32 L 512,32 L 528,32 L 544,32 L 560,32 L 576,32 L 592,32 L 608,32 L 624,32 L 640,32 L 656,32 L 672,32 L 688,32 L 704,32 L 720,32 L 736,32 L 736,48 L 720,48 L 704,48 L 688,48 L 672,48 L 656,48 L 640,48 L 624,48 L 608,48 L 592,48 L 576,48 L 560,48 L 544,48 L 528,48 L 512,48 L 496,48 L 480,48 L 464,48 L 448,48 L 432,48 L 416,48 L 400,48 L 384,48 L 368,48 L 352,48 L 336,48 L 320,48 L 304,48 L 288,48 L 272,48 L 256,48 L 240,48 L 224,48 L 208,48 L 192,48 L 176,48 L 160,48 L 144,48 L 128,48 L 112,48 L 96,48 L 80,48 L 64,48 L 48,48 L 32,48 L 16,48 L 0,48 L -16,64 L 0,64 L 16,64 L 32,64 L 48,64 L 64,64 L 80,64 L 96,64 L 112,64 L 128,64 L 144,64 L 160,64 L 176,64 L 192,64 L 208,64 L 224,64 L 240,64 L 256,64 L 272,64 L 288,64 L 304,64 L 320,64 L 336,64 L 352,64 L 368,64 L 384,64 L 400,64 L 416,64 L 432,64 L 448,64 L 464,64 L 480,64 L 496,64 L 512,64 L 528,64 L 544,64 L 560,64 L 576,64 L 592,64 L 608,64 L 624,64 L 640,64 L 656,64 L 672,64 L 688,64 L 704,64 L 720,64 L 736,64 L 736,80 L 720,80 L 704,80 L 688,80 L 672,80 L 656,80 L 640,80 L 624,80 L 608,80 L 592,80 L 576,80 L 560,80 L 544,80 L 528,80 L 512,80 L 496,80 L 480,80 L 464,80 L 448,80 L 432,80 L 416,80 L 400,80 L 384,80 L 368,80 L 352,80 L 336,80 L 320,80 L 304,80 L 288,80 L 272,80 L 256,80 L 240,80 L 224,80 L 208,80 L 192,80 L 176,80 L 160,80 L 144,80 L 128,80 L 112,80 L 96,80 L 80,80 L 64,80 L 48,80 L 32,80 L 16,80 L 0,80 L -16,80 L -16,96 L 0,96 L 16,96 L 32,96 L 48,96 L 64,96 L 80,96 L 96,96 L 112,96 L 128,96 L 144,96 L 160,96 L 176,96 L 192,96 L 208,96 L 224,96 L 240,96 L 256,96 L 272,96 L 288,96 L 304,96 L 320,96 L 336,96 L 352,96 L 368,96 L 384,96 L 400,96 L 416,96 L 432,96 L 448,96 L 464,96 L 480,96 L 496,96 L 512,96 L 528,96 L 544,96 L 560,96 L 576,96 L 592,96 L 608,96 L 624,96 L 640,96 L 656,96 L 672,96 L 688,96 L 704,96 L 720,96 L 736,96"/></rect>
+</g>
+<text x="66" y="217" font-family="monospace" font-size="10" fill="#8B949E">Jan 1 – Dec 31, 2026  |  generated from GitHub calendar</text>
+</svg>
